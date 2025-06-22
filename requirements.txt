@@ -1,0 +1,5 @@
+streamlit
+pandas
+requests
+numpy==1.24.4
+scikit-surprise==1.1.3
